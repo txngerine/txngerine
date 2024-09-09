@@ -5,8 +5,6 @@
 
 - 🌱  **Flutter, Api, Provider, Hive, SqfLite**
 
-- 📝 I regularly write articles on [https://nyouibou.github.io/personal/](https://nyouibou.github.io/personal/)
-
 - 💬 Ask me about **Android Flutter**
 
 - 📫 How to reach me **akshaits4@gmail.com**
