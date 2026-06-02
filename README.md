@@ -70,9 +70,17 @@ Built a real-time chat app with Flutter + Supabase and a task manager with React
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=txngerine&ring=6C63FF&fire=6C63FF&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=DDDDDD&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=txngerine&ring=6C63FF&fire=6C63FF&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=DDDDDD&hide_border=true&background=1a1b27" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=txngerine&ring=6C63FF&fire=6C63FF&currStreakNum=333333&sideNums=333333&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=333333&hide_border=true&background=FFFFFF" />
+    <img src="https://streak-stats.demolab.com/?user=txngerine&ring=6C63FF&fire=6C63FF&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=DDDDDD&hide_border=true&background=1a1b27" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=txngerine&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=txngerine&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=txngerine&bg_color=FFFFFF&color=6C63FF&line=6C63FF&point=333333&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=txngerine&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
+  </picture>
 </p>
