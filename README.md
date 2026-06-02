@@ -51,14 +51,17 @@ I build mobile apps and web backends. Currently working with **Flutter**, **Supa
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=txngerine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=txngerine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/txngerine">
+    <img src="https://img.shields.io/github/followers/txngerine?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27" />
+  </a>
+  <a href="https://github.com/txngerine">
+    <img src="https://img.shields.io/github/stars/txngerine?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27" />
+  </a>
+  <a href="https://github.com/txngerine">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftxngerine" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=txngerine&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=txngerine&label=Profile%20Views&color=6C63FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=txngerine&label=Profile%20Views&color=6C63FF&style=for-the-badge&labelColor=1a1b27" />
 </p>
