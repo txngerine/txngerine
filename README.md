@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=460&lines=Akshay+T+S;Flutter+%26+Full-Stack+Developer;Building+stuff+that+matters" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/akshai-t-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/txngerine"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:akshaits4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,12 +6,13 @@
 
 ---
 
-I build mobile apps and web backends. Currently working with **Flutter**, **Supabase**, and the **MERN stack**. Also exploring **Django** and system design.
+### 👋 Hi, I'm Akshay T S
 
-- 🔭 Working on a few Flutter + Supabase side projects
-- 🌱 Learning Django, system design, and MERN
-- 💬 Ask me about Flutter, Dart, Firebase, Supabase
-- 📫 akshaits4@gmail.com
+I'm a Flutter and full-stack developer from India. I build cross-platform mobile apps with Flutter and backends with Node.js, Supabase, and Django. Currently exploring system design and the MERN stack.
+
+- 🔭 Working on Flutter + Supabase projects
+- 🌱 Learning system design, Django, and MERN
+- 💬 Ask me about Flutter, Dart, Firebase, Supabase, React
 
 ---
 
@@ -47,16 +44,17 @@ I build mobile apps and web backends. Currently working with **Flutter**, **Supa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**Also use**
+**Languages & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white)
 
 ---
 
-### Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/txngerine">
@@ -72,16 +70,4 @@ I build mobile apps and web backends. Currently working with **Flutter**, **Supa
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=txngerine&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/txngerine/txngerine/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/txngerine/txngerine/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/txngerine/txngerine/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=txngerine&label=Profile%20Views&color=6C63FF&style=for-the-badge&labelColor=1a1b27" />
 </p>
