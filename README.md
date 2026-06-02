@@ -74,5 +74,5 @@ Built a real-time chat app with Flutter + Supabase and a task manager with React
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1a1b27/txngerine" alt="Contribution chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=txngerine&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
 </p>
