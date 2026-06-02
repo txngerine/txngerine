@@ -10,11 +10,10 @@
 
 I build cross-platform mobile apps with Flutter and backends with Node.js, Supabase, and Django. Currently exploring system design and the MERN stack.
 
-Built a real-time chat app with Flutter + Supabase and a task manager with React + Node.js.
-
 - 🔭 Working on Flutter + Supabase projects
 - 🌱 Learning system design, Django, and MERN
 - 💬 Ask me about Flutter, Dart, Firebase, Supabase, React
+- ⚡ Outside of coding, I enjoy playing videogames and editing images, videos, etc
 
 ---
 
@@ -58,15 +57,9 @@ Built a real-time chat app with Flutter + Supabase and a task manager with React
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/txngerine">
-    <img src="https://img.shields.io/github/followers/txngerine?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27" />
-  </a>
-  <a href="https://github.com/txngerine">
-    <img src="https://img.shields.io/github/stars/txngerine?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27" />
-  </a>
-  <a href="https://github.com/txngerine">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&style=for-the-badge&color=6C63FF&labelColor=1a1b27&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftxngerine" />
-  </a>
+  <a href="https://github.com/txngerine"><img src="https://img.shields.io/github/followers/txngerine?logo=github&style=for-the-badge&color=6C63FF" /></a>
+  <a href="https://github.com/txngerine"><img src="https://img.shields.io/github/stars/txngerine?logo=github&style=for-the-badge&color=6C63FF" /></a>
+  <a href="https://github.com/txngerine"><img src="https://img.shields.io/badge/dynamic/json?logo=github&style=for-the-badge&color=6C63FF&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftxngerine" /></a>
 </p>
 
 <p align="center">
