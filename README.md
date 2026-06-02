@@ -8,7 +8,9 @@
 
 ### 👋 Hi, I'm Akshay T S
 
-I'm a Flutter and full-stack developer from India. I build cross-platform mobile apps with Flutter and backends with Node.js, Supabase, and Django. Currently exploring system design and the MERN stack.
+I build cross-platform mobile apps with Flutter and backends with Node.js, Supabase, and Django. Currently exploring system design and the MERN stack.
+
+Built a real-time chat app with Flutter + Supabase and a task manager with React + Node.js.
 
 - 🔭 Working on Flutter + Supabase projects
 - 🌱 Learning system design, Django, and MERN
@@ -23,7 +25,6 @@ I'm a Flutter and full-stack developer from India. I build cross-platform mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Backend & Databases**
 
@@ -69,5 +70,9 @@ I'm a Flutter and full-stack developer from India. I build cross-platform mobile
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=txngerine&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=txngerine&ring=6C63FF&fire=6C63FF&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=DDDDDD&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/1a1b27/txngerine" alt="Contribution chart" />
 </p>
