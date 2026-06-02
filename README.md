@@ -63,5 +63,13 @@ I build mobile apps and web backends. Currently working with **Flutter**, **Supa
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=txngerine&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/txngerine/txngerine/output/snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=txngerine&label=Profile%20Views&color=6C63FF&style=for-the-badge&labelColor=1a1b27" />
 </p>
